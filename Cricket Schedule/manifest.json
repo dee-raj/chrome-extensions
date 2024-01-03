@@ -1,0 +1,15 @@
+{
+   "name": "Cricket Schedule",
+   "version": "1.0.0.0",
+   "description": "Best chrome extention for Cricket Schedule ever!",
+   "manifest_version":3,
+   "author": "Dee-raj",
+   "action": {
+      "default_popup": "index.html",
+      "default_title": "Chrome extention for Cricket Schedule"
+   },
+   "icons":{
+      "128": "cricket logo.png"
+   },
+   "permissions": ["activeTab"]
+}

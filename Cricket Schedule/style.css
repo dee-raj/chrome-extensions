@@ -1,0 +1,15 @@
+body{
+   width: 300px;
+   background: #fff;
+}
+
+.matches{
+   background-color: rgba(148, 203, 240, 0.719);
+   padding: 20px;
+   margin: 0;
+   list-style: disc;
+   font-weight: 400;
+}
+.matches:focus{
+   background-color: gray;
+}
