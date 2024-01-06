@@ -1,0 +1,16 @@
+{
+   "name": "Random Jokes",
+   "version": "1.0.0",
+   "manifest_version": 3,
+   "description": "This extention will generate random jokes",
+   "icons": {
+      "64":"images/icon-64.png",
+      "48": "images/icon-48.png",
+      "128": "images/icon-128.png"
+   },
+   "action": {
+      "default_popup": "index.html",
+      "default_title": "Chrome extention for For generating random jokes on various topics"
+   },
+   "permissions": ["activeTab"]
+}

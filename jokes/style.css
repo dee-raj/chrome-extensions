@@ -1,0 +1,45 @@
+body{
+   width: 300px;
+   height: 400px;
+   background-color: #f0e32e;
+}
+#wrapper{
+   width: calc(100% - 10px);
+   height: calc(100% - 10%);
+   background-color: #121522;
+   position: absolute;
+   transform: translate(-50%, -50%);
+   top: 50%;
+   left: 50%;
+   border-radius: 10px;
+   box-shadow: 20px 20px 40px rgba(97, 63, 0, 0.4);
+}
+#Icon{
+   display: block;
+   width: 90%;
+   text-align: center;
+   font-size: 100px;
+}
+#jokeContent{
+   font-size: 16px;
+   color: #fff;
+   font-weight: 400;
+   word-wrap: break-word;
+   text-align: center;
+   line-height: 35px;
+   margin: 3px 6px;
+}
+#btn{
+   display: block;
+   background-color: #fab22e;
+   border: none;
+   padding: 5px;
+   color: black;
+   font-family: Roboto;
+   font-weight: 400;
+   font-size: 23px;
+   padding: 12px 25px;
+   margin: 0 auto;
+   border-radius: 5px;
+   cursor: pointer;
+}
