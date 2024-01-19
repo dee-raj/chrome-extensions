@@ -1,0 +1,695 @@
+[
+   {
+     "id": 1,
+     "joke": "Why did the programmer cross the road? To get to the other byte!",
+     "isFunniest": false,
+     "languages": ["Python", "JavaScript"],
+     "source": {
+       "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+       "name": "dee-raj"
+     },
+     "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+     "id": 2,
+     "joke": "What do you call a lazy kangaroo? Pouch potato.",
+     "isFunniest": false,
+     "languages": ["Python", "JavaScript"],
+     "source": {
+       "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+       "name": "dee-raj"
+     },
+     "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+     "id": 3,
+     "joke": "A SQL query walks into a bar. Orders drinks for everyone and tells the bartender, 'I'm buying!'",
+     "isFunniest": false,
+     "languages": ["Python", "JavaScript"],
+     "source": {
+       "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+       "name": "dee-raj"
+     },
+     "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 4,
+      "joke": "Why don't programmers like nature? It has too many bugs.",
+      "isFunniest": false,
+      "languages": ["Python", "JavaScript"],
+      "source": {
+        "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+        "name": "dee-raj"
+      },
+      "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 5,
+      "joke": "An object-oriented programmer walks into a bar. Orders a beer for itself, a beer for its child object, and then sends a message to its grandparent object to pay for its beer.",
+      "isFunniest": false,
+      "languages": ["Python", "JavaScript"],
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "name": "dee-raj"
+      },
+      "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 6,
+      "joke": "I used to debug code for a living. Now I debug people. Same pay, better benefits.",
+      "isFunniest": false,
+      "languages": ["Python", "JavaScript"],
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "name": "dee-raj"
+      },
+      "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 7,
+      "joke": "An assembly programmer is writing code and says, 'I need more registers!' The hardware engineer replies, 'What are you writing a novel?'",
+      "isFunniest": false,
+      "languages": ["Python", "JavaScript"],
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "name": "dee-raj"
+      },
+      "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 8,
+      "joke": "What do you call a programmer who doesn't wear pajamas? Unemployed.",
+      "isFunniest": false,
+      "languages": ["Python", "JavaScript"],
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "name": "dee-raj"
+      },
+      "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 9,
+      "joke": "Why did the scarecrow win an award? Because he was outstanding in his field.",
+      "isFunniest": false,
+      "languages": ["Python", "JavaScript"],
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "name": "dee-raj"
+      },
+      "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 10,
+      "joke": "I deleted my system32 folder. Does anyone have a backup of my C?",
+      "isFunniest": true,
+      "languages": ["Python", "JavaScript"],
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "name": "dee-raj"
+      },
+      "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 11,
+      "joke": "What do you call a fish with no eyes? Fsh!",
+      "isFunniest": true,
+      "languages": ["Python", "JavaScript"],
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "name": "dee-raj"
+      },
+      "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 12,
+      "joke": "I'm not addicted to caffeine, I just have a very deep relationship with coffee.",
+      "isFunniest": false,
+      "languages": ["Python", "JavaScript", "Java"],
+      "source": {
+        "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+        "name": "dee-raj"
+      },
+      "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 13,
+      "joke": "There are 10 types of people in the world: those who understand ternary operators, those who don't, and those who think there are only two types.",
+      "isFunniest": true,
+      "languages": ["Python", "JavaScript", "Java"],
+      "source": {
+        "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+        "name": "dee-raj"
+      },
+      "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 14,
+      "joke": "Why did the compiler cross the road? To get to the other side!",
+      "isFunniest": false,
+      "languages": ["Python", "JavaScript", "Java"],
+      "source": {
+        "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+        "name": "dee-raj"
+      },
+      "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 15,
+      "joke": "What's the best thing about a Boolean? Even if you're wrong, you're only off by a bit.",
+      "isFunniest": false,
+      "languages": ["Python", "JavaScript", "Java"],
+      "source": {
+        "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+        "name": "dee-raj"
+      },
+      "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 16,
+      "joke": "A user is at a computer and types in \"help.\" The computer replies, \"There are no helpful suggestions.\"",
+      "isFunniest": true,
+      "languages": ["Python", "JavaScript", "Java"],
+      "source": {
+        "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+        "name": "dee-raj"
+      },
+      "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 17,
+      "joke": "What do you call a programmer who lives in a glass house? Someone who throws stones at others.",
+      "isFunniest": false,
+      "languages": ["Python", "JavaScript", "Java"],
+      "source": {
+        "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+        "name": "dee-raj"
+      },
+      "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 18,
+      "joke": "What do you call a programmer who's lost their job? Free lance!",
+      "isFunniest": false,
+      "languages": ["Python", "JavaScript", "Java"],
+      "source": {
+        "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+        "name": "dee-raj"
+      },
+      "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 19,
+      "joke": "My code compiles and runs? What do I do now?",
+      "isFunniest": false,
+      "languages": ["Python", "JavaScript", "Java"],
+      "source": {
+        "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+        "name": "dee-raj"
+      },
+      "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 20,
+      "joke": "I just saw a Python dictionary joke. It was really punny.",
+      "isFunniest": true,
+      "languages": ["Python", "JavaScript"],
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "name": "dee-raj"
+      },
+      "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 21,
+      "joke": "Why do programmers prefer dark mode? Because light attracts bugs.",
+      "isFunniest": false,
+      "languages": ["Python", "JavaScript"],
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "name": "dee-raj"
+      },
+      "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 22,
+      "joke": "Why did the programmer quit his job? He didn't get arrays.",
+      "isFunniest": false,
+      "languages": ["Python", "JavaScript"],
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "name": "dee-raj"
+      },
+      "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 23,
+      "joke": "What do you call a programmer who can't code? A manager.",
+      "isFunniest": false,
+      "languages": ["Python", "JavaScript"],
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "name": "dee-raj"
+      },
+      "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 24,
+      "joke": "Why did the programmer go broke? He used up all his cache.",
+      "isFunniest": false,
+      "languages": ["Python", "JavaScript"],
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "name": "dee-raj"
+      },
+      "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 25,
+      "joke": "Why did the programmer go to art school? To learn how to code in C Sharp.",
+      "isFunniest": false,
+      "languages": ["Python", "JavaScript"],
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "name": "dee-raj"
+      },
+      "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 26,
+      "joke": "Why did the programmer go to the doctor? He had a case of the loops.",
+      "isFunniest": false,
+      "languages": ["Python", "JavaScript"],
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "name": "dee-raj"
+      },
+      "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 27,
+      "joke": "Why did the programmer go to the gym? To work on his core dump.",
+      "isFunniest": true,
+      "languages": ["Python", "JavaScript", "Java", "C++"],
+      "source": {
+        "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+        "name": "dee-raj"
+      },
+      "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 28,
+      "joke": "Why did the programmer go to the zoo? To see the Python.",
+      "isFunniest": true,
+      "languages": ["Python", "JavaScript", "Java", "C++"],
+      "source": {
+        "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+        "name": "dee-raj"
+      },
+      "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 29,
+      "joke": "Why did the programmer go to the dentist? To get his root directory checked.",
+      "isFunniest": true,
+      "languages": ["Python", "JavaScript", "Java", "C++"],
+      "source": {
+        "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+        "name": "dee-raj"
+      },
+      "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 30,
+      "joke": "Why did the programmer go to the bank? To get his source code.",
+      "isFunniest": true,
+      "languages": ["Python", "JavaScript", "Java", "C++"],
+      "source": {
+        "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+        "name": "dee-raj"
+      },
+      "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 31,
+      "joke": "Why did the programmer go to the grocery store? To get some Java.",
+      "isFunniest": true,
+      "languages": ["Python", "JavaScript", "Java", "C++"],
+      "source": {
+        "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+        "name": "dee-raj"
+      },
+      "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 32,
+      "joke": "Why did the programmer go to the movie theater? To see the new release of \"The Matrix\".",
+      "isFunniest": true,
+      "languages": ["Python", "JavaScript", "Java", "C++"],
+      "source": {
+        "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+        "name": "dee-raj"
+      },
+      "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 33,
+      "joke": "Why did the programmer go to the library? To check out some code.",
+      "isFunniest": true,
+      "languages": ["Python", "JavaScript", "Java", "C++"],
+      "source": {
+        "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+        "name": "dee-raj"
+      },
+      "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 34,
+      "joke": "What do you call a Python error? An exception to the rule.",
+      "isFunniest": true,
+      "languages": ["Python"],
+      "createdTime": "2024-01-19T20:49:12+05:30",
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "name": "dee-raj"
+      }
+   },
+   {
+      "id": 35,
+      "joke": "What do you call a JavaScript framework? A temporary solution to a temporary problem.",
+      "isFunniest": true,
+      "createdTime": "2024-01-19T20:49:12+05:30",
+      "languages": ["JavaScript"],
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "name": "dee-raj"
+      }
+   },
+   {
+      "id": 36,
+      "joke": "Why did the developer take the time to refactor their code? They heard it was a good habit.",
+      "isFunniest": true,
+      "languages": ["Python", "JavaScript", "Java", "C++"],
+      "createdTime": "2024-01-19T20:49:12+05:30",
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "name": "dee-raj"
+      }
+   },
+   {
+      "id": 37,
+      "joke": "What do you call a function that nobody likes? Closure.",
+      "createdTime": "2024-01-19T20:49:12+05:30",
+      "isFunniest": true,
+      "languages": ["Python", "JavaScript", "Java", "C++"],
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "name": "dee-raj"
+      }
+   },
+   {
+      "id": 38,
+      "joke": "What's the best thing about a Boolean? Even if you're wrong, you're only off by a bit.",
+      "createdTime": "2024-01-19T20:49:12+05:30",
+      "isFunniest": true,
+      "languages": ["Python", "JavaScript", "Java", "C++"],
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "name": "dee-raj"
+      }
+   },
+   {
+      "id": 39,
+      "joke": "What do you call a database with no data? Baseless.",
+      "isFunniest": true,
+      "createdTime": "2024-01-19T20:49:12+05:30",
+      "languages": ["Python", "JavaScript", "Java", "C++"],
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "name": "dee-raj"
+      }
+   },
+   {
+      "id": 40,
+      "joke": "What do you call a programmer who lives in a glass house? Someone who throws stones at others.",
+      "isFunniest": true,
+      "languages": ["Python", "JavaScript", "Java", "C++"],
+      "createdTime": "2024-01-19T20:49:12+05:30",
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "name": "dee-raj"
+      }
+   },
+   {
+      "id": 41,
+      "joke": "I used to be addicted to soap. But I'm clean now.",
+      "isFunniest": true,
+      "languages": ["Java", "C++"],
+      "createdTime": "2024-01-19T20:49:12+05:30",
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "name": "dee-raj"
+      }
+   },
+   {
+      "id": 42,
+      "joke": "What do you call a lost programmer? None the wiser.",
+      "isFunniest": true,
+      "languages": ["Python", "JavaScript", "Java", "C++"],
+      "createdTime": "2024-01-19T20:49:12+05:30",
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "name": "dee-raj"
+      }
+   },
+   {
+      "id": 43,
+      "joke": "What do you call a function that no one ever uses? Anonymous.",
+      "isFunniest": true,
+      "languages": ["Python", "JavaScript", "Java", "C++"],
+      "createdTime": "2024-01-19T20:49:12+05:30",
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "name": "dee-raj"
+      }
+   },
+   {
+      "id": 44,
+      "joke": "What do you call a JavaScript framework? A temporary solution to a temporary problem.",
+      "isFunniest": true,
+      "languages": ["JavaScript"],
+      "createdTime": "2024-01-19T20:49:12+05:30",
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "name": "dee-raj"
+      }
+   },
+   {
+      "id": 45,
+      "joke": "Why did the developer take the time to refactor their code? They heard it was a good habit.",
+      "isFunniest": true,
+      "languages": ["Python", "JavaScript", "Java", "C++"],
+      "createdTime": "2024-01-19T20:49:12+05:30",
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "name": "dee-raj"
+      }
+   },
+   {
+      "id": 46,
+      "joke": "What do you call a function that nobody likes? Closure.",
+      "isFunniest": true,
+      "languages": ["Python", "JavaScript", "Java", "C++"],
+      "createdTime": "2024-01-19T20:49:12+05:30",
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "name": "dee-raj"
+      }
+   },
+   {
+      "id": 47,
+      "joke": "What's the best thing about a Boolean? Even if you're wrong, you're only off by a bit.",
+      "isFunniest": true,
+      "languages": ["Python", "JavaScript", "Java", "C++"],
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "name": "dee-raj"
+      },
+      "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 48,
+      "joke": "Why did the Java developer wear glasses? Because they couldn't C#.",
+      "isFunniest": false,
+      "languages": ["Java"],
+      "source": {
+        "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+        "author": "Dee&raj"
+      },
+      "createdTime": "2024-01-19T20:49:12+05:30"
+  },
+  {
+      "id": 49,
+      "joke": "Why did the hipster burn down the server farm? He heard it was going to be \"cloud-based\". (Hipsters love trendy buzzwords!)",
+      "isFunniest": true,
+      "languages": ["English"],
+      "source": {
+      "url": "https://github.com/username/repo",
+      "author": "username"
+      },
+      "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 50,
+      "joke": "What do you call a JavaScript framework? A temporary solution to a temporary problem.",
+      "isFunniest": false,
+      "languages": ["Python", "JavaScript"],
+      "source": {
+        "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+        "name": "dee-raj"
+      },
+      "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 51,
+      "joke": "Why did the C++ programmer cross the road? To use the other side! (Object-oriented programmers wouldn't understand...)",
+      "isFunniest": false,
+      "languages": ["C++"],
+      "source": {
+        "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+        "author": "username"
+      },
+        "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 52,
+      "joke": "What do you call a lazy kangaroo? Pouch potato. (Bonus points for Python's reputation for simplicity and \"zen\" coding.)",
+      "isFunniest": true,
+      "languages": ["English"],
+      "source": {
+         "url": "https://github.com/username/repo",
+         "author": "username"
+      },
+         "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 53,
+      "joke": "What do you call a SQL query walks into a bar? Orders drinks for everyone and tells the bartender, \"I'm buying!\" (Ruby loves sharing the cost.)",
+      "isFunniest": false,
+      "languages": ["English"],
+      "source": {
+         "url": "https://github.com/username/repo",
+         "author": "username"
+      },
+         "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 54,
+      "joke": "An object-oriented programmer walks into a bar. Orders a beer for itself, a beer for its child object, and then sends a message to its grandparent object to pay for its beer. (JavaScript loves delegation and inheritance.)",
+      "isFunniest": false,
+      "languages": ["English"],
+      "source": {
+         "url": "https://github.com/username/repo",
+         "author": "username"
+      },
+         "createdTime": "2024-01-19T20:49:12+05:30"
+   },
+   {
+      "id": 55,
+      "joke": "Why did the Java developer wear glasses? Because they couldn't C#.",
+      "isFunniest": false,
+      "languages": ["Java"],
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "author": "Dee-Raj"
+      },
+      "createdTime": "2024-01-19T21:05:14+05:30"
+   },
+   {
+      "id": 56,
+      "joke": "Why did the C++ programmer cross the road? To use the other side! (Object-oriented programmers wouldn't understand...)",
+      "isFunniest": true,
+      "languages": ["C++"],
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "author": "Dee-Raj"
+      },
+      "createdTime": "2024-01-19T21:05:14+05:30"
+   },
+   {
+      "id": 57,
+      "joke": "What do you call a lazy kangaroo? Pouch potato. (Bonus points for Python's reputation for simplicity and 'zen' coding.)",
+      "isFunniest": true,
+      "languages": ["Python"],
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "author": "Dee-Raj"
+      },
+      "createdTime": "2024-01-19T21:05:14+05:30"
+   },
+   {
+      "id": 58,
+      "joke": "What do you call a SQL query walks into a bar? Orders drinks for everyone and tells the bartender, 'I'm buying!' (Ruby loves sharing the cost.)",
+      "isFunniest": false,
+      "languages": ["Ruby"],
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "author": "Dee-Raj"
+      },
+      "createdTime": "2024-01-19T21:05:14+05:30"
+   },
+   {
+      "id": 59,
+      "joke": "An object-oriented programmer walks into a bar. Orders a beer for itself, a beer for its child object, and then sends a message to its grandparent object to pay for its beer. (JavaScript loves delegation and inheritance.)",
+      "isFunniest": false,
+      "languages": ["JavaScript"],
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "author": "Dee-Raj"
+      },
+      "createdTime": "2024-01-19T21:05:14+05:30"
+   },
+   {
+      "id": 60,
+      "joke": "I used to debug code for a living. Now I debug people. Same pay, better benefits. (Assembly is hard, people are messy.)",
+      "isFunniest": true,
+      "languages": ["Assembly"],
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "author": "Dee-Raj"
+      },
+      "createdTime": "2024-01-19T21:05:14+05:30"
+   },
+   {
+      "id": 61,
+      "joke": "Why did the hipster burn down the server farm? He heard it was going to be 'cloud-based'. (Hipsters love trendy buzzwords!)",
+      "isFunniest": false,
+      "languages": ["HTML", "CSS"],
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "author": "Dee-Raj"
+      },
+      "createdTime": "2024-01-19T21:05:14+05:30"
+   },
+   {
+      "id": 62,
+      "joke": "There are 10 types of people in the world: those who understand ternary operators, those who don't, and those who think there are only two types. (C loves terse operators and cryptic code.)",
+      "isFunniest": true,
+      "languages": ["C"],
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "author": "Dee-Raj"
+      },
+      "createdTime": "2024-01-19T21:05:14+05:30"
+   },
+   {
+      "id": 63,
+      "joke": "What do you call a database with no data? Baseless. (SQL is all about storing and retrieving data.)",
+      "isFunniest": false,
+      "languages": ["C"],
+      "source": {
+         "url": "https://github.com/dee-raj/chrome-extensions/tree/main/jokes",
+         "author": "Dee-Raj"
+      },
+      "createdTime": "2024-01-19T21:05:14+05:30"
+   }
+]
